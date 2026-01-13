@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "酒よ",
+  "base_artist": "吉幾三",
+  "createdAt": "2026-01-13T15:59:17.315165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "酒よ",
+      "artist": "Fuyumi Sakamoto",
+      "has_synced": false,
+      "path": "select/01_酒よ_Fuyumi_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "酒よ",
+      "artist": "Fuyumi Sakamoto",
+      "has_synced": false,
+      "path": "select/02_酒よ_Fuyumi_Sakamoto.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "酒よ",
+      "artist": "吉幾三",
+      "has_synced": false,
+      "path": "select/pl_01_酒よ_吉幾三.txt"
+    }
+  ]
+}
